@@ -17,17 +17,17 @@ To install the quickstart, read [my blog on Medium](https://medium.com/@matriphe
 3. Add the Laravel template(s) to your project:
 
     ```
-    $ oc create -f https://raw.githubusercontent.com/matriphe/laravel-openshift/master/openshift/templates/laravel-mysql.json
+    $ oc create -f https://raw.githubusercontent.com/wmfairuz/laravel-openshift/master/openshift/templates/laravel-mysql.json
     ```
     or
 
     ```
-    $ oc create -f https://raw.githubusercontent.com/matriphe/laravel-openshift/master/openshift/templates/laravel-postgresql.json
+    $ oc create -f https://raw.githubusercontent.com/wmfairuz/laravel-openshift/master/openshift/templates/laravel-postgresql.json
     ```
     or
 
     ```
-    $ oc create -f https://raw.githubusercontent.com/matriphe/laravel-openshift/master/openshift/templates/laravel-sqlite.json
+    $ oc create -f https://raw.githubusercontent.com/wmfairuz/laravel-openshift/master/openshift/templates/laravel-sqlite.json
     ```
 
 4. Fork this GitHub repo
